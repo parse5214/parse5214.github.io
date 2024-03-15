@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: parse5214 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My Personal Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, git, github.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A842PA3861PT28D1028136625W8333H10000/views/1,width=800,height=800,appearanceId=842,backgroundColor=F2F2F2/peace-sign-paint-splatter-painting-retro-creative-sticker.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
